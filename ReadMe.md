@@ -351,6 +351,7 @@ getComment(requestID, commentID, cb)
 list(cb)
 received(cb)
 show(satisfactionRatingID, cb)
+search(searchTerm, cb)
 ```
 
 ### search
